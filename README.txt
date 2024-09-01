@@ -1,4 +1,4 @@
-Link to Website: (https://rodrigo-dls.github.io/rodrifordata-github.io/)[https://rodrigo-dls.github.io/rodrifordata-github.io/]
+Link to Website: (https://rodrigo-dls.github.io/rodrifordata-github.io/)
 
 
 Massively by HTML5 UP
